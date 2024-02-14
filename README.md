@@ -30,7 +30,7 @@ Code Analysis é um projeto que visa ter a implementação de conceitos de Copil
 
 ##### Visualize a aplicação web aqui: [Code Analysis](https://code-analysis.netlify.app/)
 
-### Backlog e desenvolvimento do projeto
+### Backlog e Desenvolvimento do Projeto
 
 ##### Visualize aqui: [Projeto Code Analysis](https://github.com/users/paulobeckman/projects/1)
 
