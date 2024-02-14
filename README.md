@@ -36,5 +36,5 @@ Code Analysis é um projeto que visa ter a implementação de conceitos de Copil
 
 ### Códigos Principais
 
-- **Análise léxica:** O código responsável por realizar a análise léxica, encontra-se [aqui](https://github.com/paulobeckman/code-analysis/blob/development/src/utils/lexicalAnalyzer.ts). Esse código é execultado, quando se insere um valor [no input dessa página](https://code-analysis.netlify.app/):
+- **Análise léxica:** O código responsável por realizar a análise léxica, encontra-se [aqui](https://github.com/paulobeckman/code-analysis/blob/development/src/utils/lexicalAnalyzer.ts). Esse código é executado, quando se insere um valor [no input dessa página](https://code-analysis.netlify.app/):
   <img alt="code-analysis" title="#code-analysis" src="./github-assets/lexicalAnalyzer.png" width="800px">
