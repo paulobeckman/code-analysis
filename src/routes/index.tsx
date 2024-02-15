@@ -1,7 +1,10 @@
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
+import GlobalLayout from "src/Layouts/Global";
+
 const router = createBrowserRouter([
   {
+    element: <GlobalLayout />,
     children: [
       {
         path: "/",
