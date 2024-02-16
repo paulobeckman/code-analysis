@@ -36,5 +36,10 @@ Code Analysis é um projeto que visa ter a implementação de conceitos de Copil
 
 ### Códigos Principais
 
-- **Análise léxica:** O código responsável por realizar a análise léxica, encontra-se [aqui](https://github.com/paulobeckman/code-analysis/blob/development/src/utils/lexicalAnalyzer.ts). Esse código é executado, quando se insere um valor [no input dessa página](https://code-analysis.netlify.app/):
+- **Análise léxica:** O código responsável por realizar a análise léxica, encontra-se [aqui](https://github.com/paulobeckman/code-analysis/blob/development/src/utils/lexicalAnalyzer.ts). Esse código é executado, quando se insere um valor [no input dessa página](https://code-analysis.netlify.app/lexical):
+
   <img alt="code-analysis" title="#code-analysis" src="./github-assets/lexicalAnalyzer.png" width="800px">
+<br/>
+
+- **Teste de expressões regulares:** O código responsável por realizar o teste de expressões regulares, encontra-se [aqui](https://github.com/paulobeckman/code-analysis/blob/development/src/utils/regularExpressions.ts). Essas duas funções são utilizadas para testar as expressões regulares, que são informadas no input, juntamente com a string que será testada [veja aqui nessa página](https://code-analysis.netlify.app/regex):
+  <img alt="code-analysis" title="#code-analysis" src="./github-assets/regularExpressions.png" width="800px">
