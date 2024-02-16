@@ -11,6 +11,14 @@ const router = createBrowserRouter([
         lazy: () => import("src/pages/Home"),
       },
       {
+        path: "/lexical",
+        lazy: () => import("src/pages/LexicalAnalyzer"),
+      },
+      {
+        path: "/regex",
+        lazy: () => import("src/pages/RegularExpressions"),
+      },
+      {
         path: "*",
         element: <div>Not Found</div>,
       },
