@@ -8,7 +8,7 @@ const TokenTable = ({ tokens }: TokenTableProps) => {
   return (
     <div className="mt-10">
       <div className="py-2 align-middle inline-block min-w-full">
-        <p className="pb-2 text-center font-bold">Resultado</p>
+        <p className="pb-2 text-center font-bold text-lg">Resultado</p>
         <div className="shadow overflow-hidden border border-gray-200 sm:rounded-lg">
           <table className="min-w-full divide-y divide-gray-200">
             <thead className="bg-gray-50">
